@@ -1,0 +1,79 @@
+Circuit: * C:\Users\comX\Documents\LTspiceXVII\edtronix\~\components\V0_MTEST_N.asc
+
+WARNING: Node U1:101 is floating.
+
+WARNING: Less than two connections to node NC_03.  This node is used by R:U1:DD2.
+WARNING: Less than two connections to node NC_05.  This node is used by R:U1:SS1.
+WARNING: Less than two connections to node U1:100.  This node is used by V:U1:AMB.
+Instance "m:u1:1": Width narrower than recommended for a level 3 MOSFET.
+Direct Newton iteration for .op point succeeded.
+Direct Newton iteration for .op point succeeded.
+Direct Newton iteration for .op point succeeded.
+Direct Newton iteration for .op point succeeded.
+Direct Newton iteration for .op point succeeded.
+Direct Newton iteration for .op point succeeded.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+Gmin = 1.89714e-008
+Gmin = 2.03704e-009
+Gmin = 2.18725e-010
+Gmin = 2.34854e-011
+Gmin = 2.52173e-012
+Gmin = 2.70769e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration for .op point succeeded.
+Direct Newton iteration for .op point succeeded.
+Direct Newton iteration for .op point succeeded.
+Direct Newton iteration for .op point succeeded.
+Direct Newton iteration for .op point succeeded.
+Direct Newton iteration for .op point succeeded.
+Direct Newton iteration for .op point succeeded.
+Direct Newton iteration for .op point succeeded.
+Direct Newton iteration for .op point succeeded.
+Direct Newton iteration for .op point succeeded.
+Direct Newton iteration for .op point succeeded.
+Direct Newton iteration for .op point succeeded.
+Direct Newton iteration for .op point succeeded.
+Direct Newton iteration for .op point succeeded.
+Direct Newton iteration for .op point succeeded.
+Direct Newton iteration for .op point succeeded.
+Direct Newton iteration for .op point succeeded.
+Direct Newton iteration for .op point succeeded.
+Direct Newton iteration for .op point succeeded.
+Direct Newton iteration for .op point succeeded.
+Direct Newton iteration for .op point succeeded.
+Direct Newton iteration for .op point succeeded.
+Direct Newton iteration for .op point succeeded.
+Direct Newton iteration for .op point succeeded.
+Direct Newton iteration for .op point succeeded.
+Direct Newton iteration for .op point succeeded.
+Direct Newton iteration for .op point succeeded.
+
+Date: Fri May 28 15:19:37 2021
+Total elapsed time: 4.562 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 379224
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 44
+fillins = 26
+solver = Normal
+Matrix Compiler1: 3.65 KB object code size  4.2/3.0/[2.0]
+Matrix Compiler2: 3.51 KB object code size  2.2/2.6/[1.7]
+

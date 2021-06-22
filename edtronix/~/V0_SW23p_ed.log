@@ -1,0 +1,587 @@
+Circuit: * C:\Users\comX\Documents\LTspiceXVII\edtronix\~\V0_SW23p_ed.asc
+
+WARNING: Node NC_02 is floating.
+WARNING: Node NC_04 is floating.
+WARNING: Node U2:101 is floating.
+WARNING: Node U3:101 is floating.
+WARNING: Node U1:101 is floating.
+
+WARNING: Less than two connections to node NC_01.  This node is used by D1.
+WARNING: Less than two connections to node NC_02.  This node is used by D2.
+WARNING: Less than two connections to node NC_03.  This node is used by D4.
+WARNING: Less than two connections to node NC_04.  This node is used by D4.
+WARNING: Less than two connections to node N020.  This node is used by R7.
+WARNING: Less than two connections to node U1:100.  This node is used by V:U1:AMB.
+Instance "m:u1:1": Width narrower than recommended for a level 3 MOSFET.
+Instance "m:u3:1": Width narrower than recommended for a level 3 MOSFET.
+Instance "m:u2:1": Width narrower than recommended for a level 3 MOSFET.
+.dc sweep increment has wrong sign -- fixing...
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+vernier = 0.5
+vernier = 0.25
+vernier = 0.333333
+Gmin = 1.20446e-007
+vernier = 0.444444
+Gmin = 4.76644e-008
+vernier = 0.592592
+vernier = 0.790123
+Gmin = 1.09041e-008
+vernier = 1
+vernier = 0.5
+Gmin = 2.56859e-009
+vernier = 0.666667
+vernier = 0.333333
+Gmin = 9.67994e-010
+vernier = 0.444444
+vernier = 0.592592
+Gmin = 3.52406e-010
+vernier = 0.790123
+Gmin = 7.17168e-011
+vernier = 1
+vernier = 0.5
+Gmin = 1.91423e-011
+vernier = 0.666667
+vernier = 0.888888
+Gmin = 3.69582e-012
+vernier = 1
+Gmin = 4.24512e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+vernier = 0.5
+vernier = 0.25
+vernier = 0.333333
+Gmin = 1.20446e-007
+vernier = 0.444444
+Gmin = 4.76644e-008
+vernier = 0.592592
+vernier = 0.790123
+Gmin = 1.09041e-008
+vernier = 1
+vernier = 0.5
+Gmin = 2.31173e-009
+vernier = 0.666667
+Gmin = 5.7233e-010
+vernier = 0.888888
+vernier = 1
+Gmin = 7.03243e-011
+vernier = 0.5
+vernier = 0.666667
+Gmin = 2.1408e-011
+vernier = 0.888888
+Gmin = 3.63155e-012
+vernier = 1
+Gmin = 3.98796e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+vernier = 0.5
+vernier = 0.25
+vernier = 0.333333
+Gmin = 1.20446e-007
+vernier = 0.444444
+Gmin = 4.76644e-008
+vernier = 0.592592
+vernier = 0.790123
+Gmin = 1.09041e-008
+vernier = 1
+Gmin = 1.33156e-009
+Gmin = 1.42975e-010
+vernier = 0.5
+Gmin = 2.96138e-011
+vernier = 0.666667
+vernier = 0.888888
+Gmin = 6.74848e-012
+vernier = 1
+Gmin = 8.10784e-013
+Gmin = 0
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+vernier = 0.5
+vernier = 0.25
+vernier = 0.333333
+Gmin = 1.20446e-007
+vernier = 0.444444
+Gmin = 4.76644e-008
+vernier = 0.592592
+vernier = 0.790123
+Gmin = 1.09041e-008
+vernier = 1
+Gmin = 1.33156e-009
+Gmin = 1.42975e-010
+Gmin = 1.53518e-011
+Gmin = 1.64839e-012
+Gmin = 1.76994e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+vernier = 0.5
+vernier = 0.25
+vernier = 0.333333
+Gmin = 1.20446e-007
+vernier = 0.444444
+Gmin = 4.76644e-008
+vernier = 0.592592
+vernier = 0.790123
+Gmin = 1.09041e-008
+vernier = 1
+Gmin = 1.33156e-009
+Gmin = 1.42975e-010
+Gmin = 1.53518e-011
+Gmin = 1.64839e-012
+Gmin = 1.76994e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+vernier = 0.5
+vernier = 0.666667
+Gmin = 6.17442e-008
+vernier = 0.888888
+vernier = 0.444444
+vernier = 0.222222
+Gmin = 2.01755e-008
+vernier = 0.296296
+Gmin = 1.05851e-008
+vernier = 0.395061
+vernier = 0.526748
+Gmin = 3.66741e-009
+vernier = 0.702331
+vernier = 0.351165
+Gmin = 1.59928e-009
+vernier = 0.46822
+vernier = 0.624294
+Gmin = 4.60825e-010
+vernier = 0.832392
+vernier = 1
+Gmin = 7.09794e-011
+vernier = 0.5
+vernier = 0.25
+Gmin = 2.57534e-011
+vernier = 0.333333
+vernier = 0.166667
+Gmin = 1.61859e-011
+vernier = 0.222222
+vernier = 0.296296
+Gmin = 9.34813e-012
+vernier = 0.395061
+Gmin = 3.9917e-012
+vernier = 0.526748
+vernier = 0.702331
+Gmin = 9.94918e-013
+vernier = 0.936441
+vernier = 1
+Gmin = 1.30418e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+vernier = 0.5
+vernier = 0.666667
+Gmin = 6.17442e-008
+vernier = 0.888888
+vernier = 0.444444
+vernier = 0.222222
+Gmin = 2.01755e-008
+vernier = 0.296296
+Gmin = 1.05851e-008
+vernier = 0.395061
+vernier = 0.526748
+Gmin = 3.66741e-009
+vernier = 0.702331
+vernier = 0.936441
+Gmin = 7.12327e-010
+vernier = 1
+Gmin = 8.05015e-011
+vernier = 0.5
+vernier = 0.25
+Gmin = 2.60531e-011
+vernier = 0.333333
+Gmin = 1.28945e-011
+vernier = 0.444444
+vernier = 0.592592
+Gmin = 4.17929e-012
+vernier = 0.790123
+vernier = 1
+Gmin = 7.48996e-013
+Gmin = 0
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+vernier = 0.5
+vernier = 0.666667
+Gmin = 6.17442e-008
+vernier = 0.333333
+vernier = 0.444444
+Gmin = 3.1674e-008
+vernier = 0.592592
+vernier = 0.790123
+Gmin = 7.80957e-009
+vernier = 1
+Gmin = 9.95452e-010
+Gmin = 1.06886e-010
+Gmin = 1.14768e-011
+Gmin = 1.23231e-012
+Gmin = 1.32318e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+vernier = 0.5
+vernier = 0.666667
+Gmin = 6.17442e-008
+vernier = 0.333333
+vernier = 0.444444
+Gmin = 2.87292e-008
+vernier = 0.592592
+Gmin = 8.22823e-009
+vernier = 0.790123
+vernier = 1
+Gmin = 1.14274e-009
+Gmin = 1.22701e-010
+vernier = 0.5
+Gmin = 2.54145e-011
+vernier = 0.666667
+vernier = 0.888888
+Gmin = 5.79153e-012
+vernier = 1
+Gmin = 6.95813e-013
+Terminal Gmin changed to 1e-014
+Gmin = 1.16738e-013
+Gmin = 1.25346e-014
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+vernier = 0.5
+vernier = 0.666667
+Gmin = 6.17442e-008
+vernier = 0.333333
+vernier = 0.166667
+Gmin = 3.83624e-008
+vernier = 0.222222
+vernier = 0.296296
+Gmin = 2.28454e-008
+vernier = 0.395061
+Gmin = 9.97936e-009
+vernier = 0.526748
+vernier = 0.702331
+Gmin = 2.66121e-009
+vernier = 0.936441
+vernier = 1
+Gmin = 3.70925e-010
+Gmin = 3.98278e-011
+vernier = 0.5
+Gmin = 1.01844e-011
+vernier = 0.666667
+vernier = 0.888888
+Gmin = 1.96631e-012
+vernier = 1
+Gmin = 2.25856e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+vernier = 0.5
+vernier = 0.666667
+Gmin = 6.17442e-008
+vernier = 0.888888
+vernier = 1
+Gmin = 9.33136e-009
+Gmin = 1.00195e-009
+vernier = 0.5
+vernier = 0.666667
+Gmin = 3.7515e-010
+vernier = 0.888888
+vernier = 1
+Gmin = 5.29164e-011
+Gmin = 5.68186e-012
+Gmin = 6.10085e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+vernier = 0.5
+vernier = 0.666667
+Gmin = 6.17442e-008
+vernier = 0.888888
+vernier = 1
+Gmin = 9.33136e-009
+Gmin = 1.00195e-009
+Gmin = 1.07583e-010
+Gmin = 1.15517e-011
+Gmin = 1.24035e-012
+Gmin = 1.33182e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+vernier = 0.5
+vernier = 0.666667
+Gmin = 6.17442e-008
+vernier = 0.888888
+vernier = 1
+Gmin = 9.33136e-009
+Gmin = 1.00195e-009
+Gmin = 1.07583e-010
+Gmin = 1.15517e-011
+Gmin = 1.24035e-012
+Gmin = 1.33182e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+vernier = 0.5
+vernier = 0.666667
+Gmin = 6.17442e-008
+vernier = 0.888888
+vernier = 1
+Gmin = 9.33136e-009
+Gmin = 1.00195e-009
+Gmin = 1.07583e-010
+Gmin = 1.15517e-011
+Gmin = 1.24035e-012
+Gmin = 1.33182e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+vernier = 0.5
+vernier = 0.25
+vernier = 0.333333
+Gmin = 1.20446e-007
+vernier = 0.444444
+Gmin = 4.76644e-008
+vernier = 0.592592
+vernier = 0.790123
+Gmin = 1.09041e-008
+vernier = 1
+Gmin = 1.33156e-009
+Gmin = 1.42975e-010
+Gmin = 1.53518e-011
+Gmin = 1.64839e-012
+Gmin = 1.76994e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+vernier = 0.5
+vernier = 0.666667
+Gmin = 6.17442e-008
+vernier = 0.888888
+vernier = 1
+Gmin = 9.33136e-009
+Gmin = 1.00195e-009
+vernier = 0.5
+vernier = 0.25
+Gmin = 2.91838e-010
+vernier = 0.333333
+Gmin = 1.4444e-010
+vernier = 0.444444
+vernier = 0.592592
+Gmin = 4.68151e-011
+vernier = 0.790123
+vernier = 1
+Gmin = 8.39002e-012
+Gmin = 9.00871e-013
+Gmin = 0
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+vernier = 0.5
+Gmin = 0
+
+Date: Fri May 28 12:57:59 2021
+Total elapsed time: 6.738 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 35894
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 139
+fillins = 148
+solver = Normal
+Matrix Compiler1: 15.39 KB object code size  11.0/7.9/[4.0]
+Matrix Compiler2: 12.74 KB object code size  5.0/5.9/[3.0]
+
