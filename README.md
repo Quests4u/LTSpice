@@ -10,7 +10,7 @@
     - it works standalone with alot integrated parts
     - here published parts, are prob. needed 
       to see published layouts. 
-     (@see  repository: Edtronix) 
+     (@see  repository: Electrix) 
     
     
     
